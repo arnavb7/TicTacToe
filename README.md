@@ -1,2 +1,2 @@
 # TicTacToe
-first ever java project, done around august 2020
+first ever java project, done July 5, 2020
